@@ -1,0 +1,157 @@
+.parent {
+    width: 100%;
+    height: 100%;
+  margin: 0px;
+padding:0%;
+
+}
+body{
+    background-color: rgb(177, 168, 185);
+}
+.card1 {
+    border: 1px solid black;
+    width: 300px;
+    height: 450px;
+    margin: 0px auto;
+    padding: 0%;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+.head1 {
+    text-align: center;
+background-color:gold;
+width: 300px;
+height: 200px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+color: white;
+font-size: x-large;
+}
+h1 {
+    margin: 0%;
+    padding: 50px;
+}
+.body1{
+    padding: 10px;
+    margin: 15px 4px;
+    text-align: center;
+}
+#btn1{
+    margin: 15px 4px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: gold;
+}
+
+
+.container {
+    width: 100%;
+    height: 100%;
+  margin: 0px;
+padding:0%;
+}
+.card2 {
+    border: 1px solid black;
+    width: 300px;
+    height: 450px;
+    margin: 0px auto;
+    padding: 0%;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+.head2 {
+    text-align: center;
+background-color: rgb(224, 22, 76);
+width: 300px;
+height: 200px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+color: white;
+font-size: x-large;
+}
+h2 {
+    margin: 0%;
+    padding: 50px;
+}
+.body2{
+    padding: 10px;
+    margin: 15px 4px;
+    text-align: center;
+}
+#btn2{
+    margin: 15px 4px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(224, 22, 76);
+   
+}
+#btn2{
+    text-align: center;
+}
+.container {
+    width: 100%;
+    height: 100%;
+  margin: 0px;
+padding:0%;
+}
+.card3 {
+    border: 1px solid black;
+    width: 300px;
+    height: 450px;
+    margin: 0px auto;
+    padding: 0%;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+.head3 {
+    text-align: center;
+background-color: rgb(187, 106, 187);
+width: 300px;
+height: 200px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+color: white;
+font-size: x-large;
+}
+h1 {
+    margin: 0%;
+    padding: 50px;
+}
+.body3{
+    padding: 10px;
+    margin: 15px 4px;
+    text-align: center;
+}
+#btn3{
+    margin: 15px 4px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color:rgb(187, 106, 187);
+    
+}
+button{
+    text-align: center;
+}
+.card1{
+    display: inline-block;
+}
+.card2{
+    display: inline-block;
+}
+.card3{
+    display: inline-block;
+}
+.parent{
+    text-align: center;
+    margin: 100px auto;
+    padding: 20px;
+    /* background-color: blueviolet; */
+
+}
+
